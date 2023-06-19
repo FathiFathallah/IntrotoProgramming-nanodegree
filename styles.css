@@ -1,0 +1,39 @@
+/* add your CSS here */
+h3{
+    margin-left: 12px;
+    margin-right: 12px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+img{
+    width: 300px;
+    height: 200px;
+    margin: 12px;
+}
+
+.container{
+    border: 1px solid gainsboro;
+    width: 324px;
+    padding: 10px;
+    box-shadow: 4px 4px gainsboro;
+    border-radius: 10px;
+}
+
+.animalDescription{
+    border: 1px solid gainsboro;
+    margin: 11px;
+    padding: 0.5em;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+span{
+    font-weight: bold;
+}
+
+.interestingFact{
+    font-style: italic;
+}
