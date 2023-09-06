@@ -45,4 +45,4 @@ def check_file(filename):
 
 
 if __name__ == '__main__':
-    check_file("story_1.txt")
+    check_file(input())
